@@ -30,7 +30,7 @@ Please note that your web provider can purely block all requests if you use cust
 If you trust them, so you can install the module properly, restart and enjoy! 
 
 
-#### Speedtest with CF DNS servers:
+#### Speedtest with Quad9 DNS servers:
 
 <img src="./images/speedtest.jpeg">
 
