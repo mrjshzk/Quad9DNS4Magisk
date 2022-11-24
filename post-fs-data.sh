@@ -6,7 +6,7 @@ MODDIR=${0%/*}
 # This script will be executed in post-fs-data mode
 # More info in the main Magisk thread
 
-# Set CF DNS servers address
+# Set Cloud9 DNS servers address
 setprop net.eth0.dns1 9.9.9.9
 setprop net.eth0.dns2 149.112.112.112
 
