@@ -1,14 +1,10 @@
 <h1 align="center">
-<img src="https://image.ibb.co/e6OwXH/cloudflare.jpg">
+<img src="./images/magiskCloud9.png">
 <br />
-<img src="https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat-square"></a><br /><img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"alt="_time_stamp_" />
+
 
 
 Hello,
-
-
-### As John Graham-Cumming announced, Cloudflare now offers its own DNS service.
-### And surprise of the Boss if we believe his words: your history of browsing isn't saved on their servers !
 
 ### DNS ?? Gne ?? What's this ?
 
