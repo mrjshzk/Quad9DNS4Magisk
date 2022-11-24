@@ -25,8 +25,8 @@ setprop net.rmnet1.dns2 149.112.112.112
 setprop net.pdpbr1.dns1 9.9.9.9
 setprop net.pdpbr1.dns2 149.112.112.112
 
-setprop 2606:4700:4700::9999
-setprop 2606:4700:4700::149.112.112.112
+setprop 2620:fe::fe
+setprop 2620:fe::9
 
 
 
