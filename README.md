@@ -32,13 +32,11 @@ If you trust them, so you can install the module properly, restart and enjoy!
 
 #### Speedtest with CF DNS servers:
 
-![alt text](https://image.ibb.co/mkEg1c/Screenshot_20180404_161654.png "speedtestscr1")
+<img src="./images/speedtest.jpeg">
 
 
 #### nslookup check:
 
-![alt text](https://image.ibb.co/eLGTgc/Screenshot_20180404_161711.png "speedtestscr2")
-![alt text](https://image.ibb.co/cmpdWc/Screenshot_20180404_191656.png "speedtestscr3")
-![alt text](https://image.ibb.co/eXPUBc/Screenshot_20180407_202353.png "speedtestscr4")
+<img src="./images/dnsproof.jpeg">
 
 ### If you trust them, so install this module, restart and enjoy ! :)
